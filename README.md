@@ -1,3 +1,3 @@
 # Transforming-Pdf-to-Audio-Book-with-Pycharm
-# Packages are:- 
-pyttsx3 , pdfplumber , PyPDF2 
+# Dependencies:- 
+  pyttsx3 , pdfplumber , PyPDF2 
