@@ -7,5 +7,4 @@
      https://pypi.org/project/pdfplumber/
      
   ⦿ PyPDF2 
-  
-   https://pypi.org/project/PyPDF2/
+    https://pypi.org/project/PyPDF2/
